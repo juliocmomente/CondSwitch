@@ -1,0 +1,15 @@
+/home/julio/Coding/C#/CondSwitch/bin/Debug/net6.0/CondSwitch
+/home/julio/Coding/C#/CondSwitch/bin/Debug/net6.0/CondSwitch.deps.json
+/home/julio/Coding/C#/CondSwitch/bin/Debug/net6.0/CondSwitch.runtimeconfig.json
+/home/julio/Coding/C#/CondSwitch/bin/Debug/net6.0/CondSwitch.dll
+/home/julio/Coding/C#/CondSwitch/bin/Debug/net6.0/ref/CondSwitch.dll
+/home/julio/Coding/C#/CondSwitch/bin/Debug/net6.0/CondSwitch.pdb
+/home/julio/Coding/C#/CondSwitch/obj/Debug/net6.0/CondSwitch.csproj.AssemblyReference.cache
+/home/julio/Coding/C#/CondSwitch/obj/Debug/net6.0/CondSwitch.GeneratedMSBuildEditorConfig.editorconfig
+/home/julio/Coding/C#/CondSwitch/obj/Debug/net6.0/CondSwitch.AssemblyInfoInputs.cache
+/home/julio/Coding/C#/CondSwitch/obj/Debug/net6.0/CondSwitch.AssemblyInfo.cs
+/home/julio/Coding/C#/CondSwitch/obj/Debug/net6.0/CondSwitch.csproj.CoreCompileInputs.cache
+/home/julio/Coding/C#/CondSwitch/obj/Debug/net6.0/CondSwitch.dll
+/home/julio/Coding/C#/CondSwitch/obj/Debug/net6.0/ref/CondSwitch.dll
+/home/julio/Coding/C#/CondSwitch/obj/Debug/net6.0/CondSwitch.pdb
+/home/julio/Coding/C#/CondSwitch/obj/Debug/net6.0/CondSwitch.genruntimeconfig.cache
